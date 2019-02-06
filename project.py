@@ -52,7 +52,7 @@ def exist(digit):
     for digit in digitArray:
         p1 = [digit.x+digit.w, digit.y+digit.h]
         p2 = [x+w, y+h]
-        relation = length(vector(p1, p2))  #ovde se koristila metoda p2pdistance izmedju dve tacke
+        relation = length(vector(p1, p2))  
         if(relation < 19):
             return digit           
     return None

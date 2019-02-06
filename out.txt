@@ -1,0 +1,12 @@
+RA 51/2015 Viktor Djuka
+file	sum
+video-0.avi	9
+video-1.avi	58
+video-2.avi	55
+video-3.avi	64
+video-4.avi	48
+video-5.avi	43
+video-6.avi	64
+video-7.avi	54
+video-8.avi	65
+video-9.avi	59

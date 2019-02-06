@@ -8,4 +8,4 @@ Cifre se kreću za slučajan broj koraka i prolaze iza pokretne linije. Potrebno
 
 Potrebno je postići tačnost prepoznavanja od bar 90%.
 
-Dobijena tacnost: 91.23%
+Postignuta tacnost: 91.23%
